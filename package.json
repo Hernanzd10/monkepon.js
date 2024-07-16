@@ -1,0 +1,22 @@
+{
+  "name": "monkepon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hernanzd10/monkepon.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hernanzd10/monkepon.js/issues"
+  },
+  "homepage": "https://github.com/Hernanzd10/monkepon.js#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
